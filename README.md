@@ -1,65 +1,13 @@
 # Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
 
-Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Oriënteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
-
-## Programma & Werkwijze
-Wekelijks worden presentaties gegeven door bedrijven uit het vakgebied. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-Maak van iedere presentatie sketch-notes / aantekeningen.
-Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
-
-Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-[Lees hier meer over het schrijven van artikelen](#5-artikelen) en lees een paar voorbeelden van vorige jaren.
-
-
-### Programma
-
-<table>
-    <tr>
-        <th>Spreker</th>
-        <th>Datum</th>
-    </tr>
-    <tr>
-        <td>Susan Lau</td>
-        <td>17 februari / 12:00 - 13:00</td>
-    </tr>
-    <tr>
-        <td>Wordt vervolgd...</td>
-        <td>22 februari</td>
-    </tr>
-    <tr>
-        <td>Wordt vervolgd...</td>
-        <td>8 maart</td>
-    </tr>
-    <tr>
-        <td>Servin Nissen</td>
-        <td>22 maart</td>
-    </tr>
-    <tr>
-        <td>Aaron Gustafson</td>
-        <td>30 maart</td>
-    </tr>
-    <tr>
-        <td>Wordt vervolgd...</td>
-        <td>19 april</td>
-    </tr>
-    <tr>
-        <td>Wordt vervolgd...</td>
-        <td>26 april</td>
-    </tr>
-</table>
-
+## Weekly Nerd
+- [Week 1]()
+## Blogs
+- [Nxt Museum]()
+- [Supabase/Express]()
+- 
 
 
 
@@ -105,27 +53,3 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 Je bent nu 3 maanden 24/7 code aan het klopppppen. Hopelijk heb je super veel geleerd, ben je regelmatig uitgedaagd, weet je (nog beter) waar je grenzen liggen en hoe je je verder kan en wil onwikkelen als "frontender". Of juist niet ... 
 
 In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender. -->
-
-
-### Weekly Nerd artikelen
-
-Drie keer schrijf je een uitgebreid artikel over een relevant web design en development onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.  
-Deadline zondag 19 juni 2022 voor 23:59.
-
-Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle artikelen aan het eind van de minor te schrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
-
-
-### Voorbeelden van artikelen van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
