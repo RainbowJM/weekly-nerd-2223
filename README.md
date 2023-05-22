@@ -5,7 +5,7 @@ Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 ## Weekly Nerd
 - [Week 1]()
 ## Blogs
-- [Nxt Museum]()
+- [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express]()
 - 
 
