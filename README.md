@@ -3,7 +3,7 @@
 Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 
 ## Weekly Nerd
-- [Week 1](#week-1)
+- [Week 1](#week-1.md)
 ## Blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express](https://medium.com/@jevona.magdalena/unleashing-the-power-of-supabase-your-ultimate-guide-to-modern-database-development-with-express-872dbb3b6e)
