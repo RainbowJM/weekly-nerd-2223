@@ -11,7 +11,8 @@ Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 - [Bridging the Gap Between Native and Web Applications](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/niels-leenheer.md)
 - [3D on the web](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/servin.md)
 - [Frontend setup in production](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/chanel-mepschen.md)
-- 
+- [Pre CSS Day](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/pre-css-day.md)
+
 ## Blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express](https://medium.com/@jevona.magdalena/unleashing-the-power-of-supabase-your-ultimate-guide-to-modern-database-development-with-express-872dbb3b6e)
