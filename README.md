@@ -6,7 +6,9 @@ Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 - [Campspace](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/susan-lau.md)
 - [Software Bastards](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/deanna-basschert.md)
 - [CLEVER°FRANKE](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/chaz-mannering.md)
-- []
+- [Accessible, Creative Development](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/cyd-stumpel.md)
+- [Making websites work for everyone](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/aaron-gustafson.md)
+- 
 ## Blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express](https://medium.com/@jevona.magdalena/unleashing-the-power-of-supabase-your-ultimate-guide-to-modern-database-development-with-express-872dbb3b6e)
