@@ -8,6 +8,9 @@ Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 - [CLEVER°FRANKE](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/chaz-mannering.md)
 - [Accessible, Creative Development](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/cyd-stumpel.md)
 - [Making websites work for everyone](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/aaron-gustafson.md)
+- [Bridging the Gap Between Native and Web Applications](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/niels-leenheer.md)
+- [3D on the web](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/servin.md)
+- [Frontend setup in production](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/chanel-mepschen.md)
 - 
 ## Blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
