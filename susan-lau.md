@@ -23,8 +23,4 @@ There are two types of datasets within elasticsearch:
 - Presentation 
 - Filtering backend
 
-Take-aways from this presentation
-Technology wise, don't re-invent it but tweak it. 
-For example: every page has a body, a heading etc. but the content is different.
-Name your variables good enough.
-Also use English, because it's easier to find stuff. And for others to understand
+
