@@ -1,7 +1,7 @@
 # Introduction
 As part of the Minor Web Development and Design, each week we have a guest lecture.
 This was the first guest lecture, it was held by FDND
-Date:
+Date: 17 February 2023
 
 ## Campspace
 Susan Lau works at Campspace. 
