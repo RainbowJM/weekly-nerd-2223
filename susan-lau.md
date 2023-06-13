@@ -17,10 +17,18 @@ What she was showing was how she was looping through the data.
 All of the sortering and filtering is happening in the backend.
 The database uses one dimensional CSS.
 They're using the framework Symphony.
-They use elasticsearch. 
+### Elasticsearch. 
 You can use different URL's for example for images. It helps you structure your data.
 There are two types of datasets within elasticsearch: 
 - Presentation 
 - Filtering backend
+
+ElasticSearch speed and flexibility for the following cases:
+- Adding search box to website
+- Sotrate and analyze logs, metrics and security event data 
+- Machine learning to automatically model the behavior of data in real-time
+- Automate Business workflows by using the ElasticSearch storage engine
+- Managing, integrating and analyzing spatial information by using ElasticSearch as a geographic information system (GIS)
+- Storing and processing 'genetic data' by using Elasticsearch as a bioinformatics research tool
 
 
