@@ -16,7 +16,7 @@ Here you will find all mine sketch notes of the weekly nerd's and my three blogs
 ## Blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express](https://medium.com/@jevona.magdalena/unleashing-the-power-of-supabase-your-ultimate-guide-to-modern-database-development-with-express-872dbb3b6e)
-- [Socket.io]()
+- [Socket.io](https://medium.com/@jevona.magdalena/real-time-communication-with-socket-io-building-dynamic-chat-applications-dfe1a748b0b6)
 
 
 
