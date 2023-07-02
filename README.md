@@ -1,6 +1,6 @@
 # Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
 
-Here you will find all mine sketch notes of the weekly nerd's and my three blogs
+Here you will find all mine notes of the weekly nerd's and my three blogs
 
 ## Weekly Nerd
 - [Campspace](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/susan-lau.md)
