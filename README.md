@@ -1,3 +1,4 @@
+
 # Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
 
 Here you will find all mine notes of the weekly nerd's and my three blogs
@@ -17,6 +18,7 @@ Here you will find all mine notes of the weekly nerd's and my three blogs
 - [Nxt Museum](https://github.com/RainbowJM/weekly-nerd-2223/blob/main/NXT%20Museum.pdf)
 - [Supabase/Express](https://medium.com/@jevona.magdalena/unleashing-the-power-of-supabase-your-ultimate-guide-to-modern-database-development-with-express-872dbb3b6e)
 - [Socket.io](https://medium.com/@jevona.magdalena/real-time-communication-with-socket-io-building-dynamic-chat-applications-dfe1a748b0b6)
+- [CSS Selector](https://medium.com/@jevona.magdalena/the-power-of-css-selector-7e9e76528906)
 
 
 
